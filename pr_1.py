@@ -3,7 +3,7 @@ import numpy as np
 
 models = ["MSI MPG Trident 3", "ARDOR GAMING NEO", "DEXP Aquilon"]
 name_char = [
-    "Тактовая частота ЦП",
+    "Тактовая частота",
     "Количество ядер",
     "Оперативная память",
     "Жесткий диск",
